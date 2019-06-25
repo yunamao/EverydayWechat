@@ -1,5 +1,7 @@
 When I install this program:
-1)git clone 88
+1)git clone ...
+open anaconda prompt
+2)SETX PATH "%PATH%;C:\ProgramData\Anaconda3\python.exe"
 2)python -m pip install [packagename]
 
 
